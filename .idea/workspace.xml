@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87903f45-d766-4cb3-8b49-ed54ab45c4cb" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EiggC7YPPr2IwppIlnkkZsa54P" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\EducationalSchool\src\main\resources\static\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NiceschoolapiApplication (1)">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NiceschoolapiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="EducationalSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuanlrc.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yuanlrc.school.NiceschoolapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NiceschoolapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EducationalSchool" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nsapi.niceschoolapi.NiceschoolapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.NiceschoolapiApplication" />
+      <item itemvalue="Spring Boot.NiceschoolapiApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NiceschoolapiApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87903f45-d766-4cb3-8b49-ed54ab45c4cb" name="Default" comment="" />
+      <created>1616143114567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616143114567</updated>
+      <workItem from="1616143117991" duration="7409000" />
+      <workItem from="1616307679593" duration="1507000" />
+      <workItem from="1616378702179" duration="2331000" />
+      <workItem from="1663083928915" duration="21000" />
+      <workItem from="1663083969556" duration="211000" />
+      <workItem from="1663084197292" duration="927000" />
+      <workItem from="1663204244947" duration="3866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1663084070320">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1663084070320" />
+    <state width="1663" height="2" key="GridCell.Tab.0.bottom" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.0.center" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.0.left" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.0.right" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.1.bottom" timestamp="1663210135739">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135739" />
+    <state width="1663" height="2" key="GridCell.Tab.1.center" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.1.left" timestamp="1663210135738">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135738" />
+    <state width="1663" height="2" key="GridCell.Tab.1.right" timestamp="1663210135739">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="2" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1663210135739" />
+    <state x="355" y="156" key="SettingsEditor" timestamp="1663084071300">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="355" y="156" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1663084071300" />
+    <state x="534" y="246" width="638" height="534" key="find.popup" timestamp="1663210134646">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="246" width="638" height="534" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1663210134646" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="MySysUser.id()" language="JAVA" />
+        <watch expression="MySysUser" language="JAVA" />
+        <watch expression="MySysUser" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>MySysUser</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MySysUser.id()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
